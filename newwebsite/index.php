@@ -1272,7 +1272,7 @@ Functioning both online and offline, our distinctive approach helps both student
                 <div class="blog-text">
                     <h6 class="third-color mb-3"></h6>
                     <h2>Challenge 2 : LAARI</h2>
-                    <p>How might we marketing smart street food carts to make more sales conversions to vendors using wooden carts</p>
+                    <p>How might we market smart street food carts to make more sales conversions to vendors using wooden carts</p>
                     <a href="https://forms.gle/CkDaPpD7gatXNX3f7" target="_new" class="btn btn-large btn-gradient btn-rounded mt-4">Apply Now</a>
                 </div>
             </div>
@@ -1332,6 +1332,24 @@ Functioning both online and offline, our distinctive approach helps both student
                 <!--Blog Image-->
                 <div class="blog-image wow hover-effect fadeInLeft">
                     <img src="images/c3.png" alt="image" height="150" width="300">
+                </div>
+            </div>
+        </div>
+
+        <div class="row align-items-center">
+            <div class="col-md-6 wow fadeInLeft">
+                <!--Blog Content-->
+                <div class="blog-text">
+                    <h6 class="third-color mb-3"></h6>
+                    <h2>Challenge 6: SMARTCITIZEN</h2>
+                    <p>How can we get the state governments to believe in digital transformation for the emergency services</p>
+                    <a href="https://forms.gle/CkDaPpD7gatXNX3f7" target="_new" class="btn btn-large btn-gradient btn-rounded mt-4">Apply Now</a>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <!--Blog Image-->
+                <div class="blog-image text-right hover-effect wow fadeInRight">
+                    <img src="images/c4.png" alt="image" height="120">
                 </div>
             </div>
         </div>
