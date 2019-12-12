@@ -131,11 +131,11 @@
 
             <div class="side-footer text-white w-100">
                 <ul class="social-icons-simple">
-                    <li class="animated-wrap"><a class="animated-element" href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
-                    <li class="animated-wrap"><a class="animated-element" href="javascript:void(0)"><i class="fa fa-instagram"></i> </a> </li>
-                    <li class="animated-wrap"><a class="animated-element" href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
+                    <li class="animated-wrap"><a class="animated-element" href="https://www.facebook.com/uppskale/"><i class="fa fa-facebook"></i> </a> </li>
+                    <li class="animated-wrap"><a class="animated-element" href="https://www.instagram.com/uppskale/"><i class="fa fa-instagram"></i> </a> </li>
+                    <li class="animated-wrap"><a class="animated-element" href="https://www.linkedin.com/company/uppskale/"><i class="fa fa-linkedin"></i> </a> </li>
                 </ul>
-                <p class="text-white">&copy; 2019 Wexim. Made With Love by Themesindustry</p>
+                <p class="text-white">&copy; 2019 Wexim. Made With Love by Orivin Technologies</p>
             </div>
         </div>
     </div>
