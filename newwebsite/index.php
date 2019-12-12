@@ -135,7 +135,7 @@
                     <li class="animated-wrap"><a class="animated-element" href="https://www.instagram.com/uppskale/"><i class="fa fa-instagram"></i> </a> </li>
                     <li class="animated-wrap"><a class="animated-element" href="https://www.linkedin.com/company/uppskale/"><i class="fa fa-linkedin"></i> </a> </li>
                 </ul>
-                <p class="text-white">&copy; 2019 Wexim. Made With Love by Orivin Technologies</p>
+                <p class="text-white">&copy; 2019 UppSkale. Made With Love by Orivin Technologies</p>
             </div>
         </div>
     </div>
