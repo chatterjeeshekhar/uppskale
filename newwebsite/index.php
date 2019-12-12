@@ -733,7 +733,7 @@ Functioning both online and offline, our distinctive approach helps both student
                         <!--Team Text-->
                         <div class="team-text">
                             <h5>Aditya Dave</h5>
-                            <span class="alt-font">Co-Founder & CEO</span>
+                            <span class="alt-font">Co-Founder & CSO</span>
                         </div>
                         <!--Team Progress-->
                         <?php if(1==2){ ?>
@@ -797,83 +797,7 @@ Functioning both online and offline, our distinctive approach helps both student
                         <?php } ?>
                     </div>
                     <!--Team Item-->
-                    <div class="team-box item">
-                        <!--Team Image-->
-                        <div class="team-image">
-                            <img src="images/team-img1.jpg" alt="image">
-                            <!--Team Overlay-->
-                            <div class="overlay center-block">
-                                <!--Team Social-->
-                                <ul class="team-social">
-                                    <li><a class="facebook-bg-hvr" href="https://www.facebook.com/uppskale/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a class="twitter-bg-hvr" href="javascript:void(0);"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                    <li><a class="instagram-bg-hvr" href="javascript:void(0);"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                    <li><a class="pinterest-bg-hvr" href="javascript:void(0);"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <!--Team Text-->
-                        <div class="team-text">
-                            <h5>Alex Walkin</h5>
-                            <span class="alt-font">Owner / Co-founder</span>
-                        </div>
-                        <!--Team Progress-->
-                        <ul class="team-progress text-left">
-                            <!--Progress Item-->
-                            <li class="progress-item">
-                                <h6>Project Management <span class="float-right"><b class="count">90</b>%</span></h6>
-                                <div class="progress">
-                                    <span class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></span>
-                                </div>
-                            </li>
-                            <!--Progress Item-->
-                            <li class="progress-item">
-                                <h6>Web Consulting<span class="float-right"><b class="count">75</b>%</span></h6>
-                                <div class="progress">
-                                    <span class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></span>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                    <!--Team Item-->
-                    <div class="team-box item">
-                        <!--Team Image-->
-                        <div class="team-image">
-                            <img src="images/team-img2.jpg" alt="image">
-                            <!--Team Overlay-->
-                            <div class="overlay center-block">
-                                <!--Team Social-->
-                                <ul class="team-social">
-                                    <li><a class="facebook-bg-hvr" href="https://www.facebook.com/uppskale/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a class="twitter-bg-hvr" href="javascript:void(0);"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                    <li><a class="instagram-bg-hvr" href="javascript:void(0);"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                    <li><a class="pinterest-bg-hvr" href="javascript:void(0);"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <!--Team Text-->
-                        <div class="team-text">
-                            <h5>Teena Jhon</h5>
-                            <span class="alt-font">Lead Designer</span>
-                        </div>
-                        <!--Team Progress-->
-                        <ul class="team-progress text-left">
-                            <!--Progress Item-->
-                            <li class="progress-item">
-                                <h6>Web Designing<span class="float-right"><b class="count">75</b>%</span></h6>
-                                <div class="progress">
-                                    <span class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></span>
-                                </div>
-                            </li>
-                            <!--Progress Item-->
-                            <li class="progress-item">
-                                <h6>Print Media<span class="float-right"><b class="count">90</b>%</span></h6>
-                                <div class="progress">
-                                    <span class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></span>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
+                    
                 </div>
             </div>
         </div>
@@ -1331,7 +1255,7 @@ Functioning both online and offline, our distinctive approach helps both student
                     <h6 class="third-color mb-3"></h6>
                     <h2>Challenge 1 : LAARI</h2>
                     <p>How might we design solar panel to maximize the energy efficiency on smart street food carts</p>
-                    <a href="https://forms.gle/kYUGbJvZVEbgPiVM6" target="_new" class="btn btn-large btn-gradient btn-rounded mt-4">Apply Now</a>
+                    <a href="https://forms.gle/CkDaPpD7gatXNX3f7" target="_new" class="btn btn-large btn-gradient btn-rounded mt-4">Apply Now</a>
                 </div>
             </div>
             <div class="col-md-6">
@@ -1349,7 +1273,7 @@ Functioning both online and offline, our distinctive approach helps both student
                     <h6 class="third-color mb-3"></h6>
                     <h2>Challenge 2 : LAARI</h2>
                     <p>How might we marketing smart street food carts to make more sales conversions to vendors using wooden carts</p>
-                    <a href="https://forms.gle/kYUGbJvZVEbgPiVM6" target="_new" class="btn btn-large btn-gradient btn-rounded mt-4">Apply Now</a>
+                    <a href="https://forms.gle/CkDaPpD7gatXNX3f7" target="_new" class="btn btn-large btn-gradient btn-rounded mt-4">Apply Now</a>
                 </div>
             </div>
             <div class="col-md-6">
@@ -1366,7 +1290,7 @@ Functioning both online and offline, our distinctive approach helps both student
                     <h6 class="third-color mb-3"></h6>
                     <h2>Challenge 3: ALLAGII</h2>
                     <p>How might we form partnership with central government to implement experiential syllabus in government school across India</p>
-                    <a href="https://forms.gle/kYUGbJvZVEbgPiVM6" target="_new" class="btn btn-large btn-gradient btn-rounded mt-4">Apply Now</a>
+                    <a href="https://forms.gle/CkDaPpD7gatXNX3f7" target="_new" class="btn btn-large btn-gradient btn-rounded mt-4">Apply Now</a>
                 </div>
             </div>
             <div class="col-md-6">
@@ -1384,7 +1308,7 @@ Functioning both online and offline, our distinctive approach helps both student
                     <h6 class="third-color mb-3"></h6>
                     <h2>Challenge 4: ALLAGII</h2>
                     <p>How might we develop a syllabus which includes latest skills set required and still can be understood by a grade 8 kid</p>
-                    <a href="https://forms.gle/kYUGbJvZVEbgPiVM6" target="_new" class="btn btn-large btn-gradient btn-rounded mt-4">Apply Now</a>
+                    <a href="https://forms.gle/CkDaPpD7gatXNX3f7" target="_new" class="btn btn-large btn-gradient btn-rounded mt-4">Apply Now</a>
                 </div>
             </div>
             <div class="col-md-6">
@@ -1401,7 +1325,7 @@ Functioning both online and offline, our distinctive approach helps both student
                     <h6 class="third-color mb-3"></h6>
                     <h2>Challenge 5: ENSO BRAND SOLUTIONS</h2>
                     <p>How might we perform effective market research to produce effective brand strategies for corporates</p>
-                    <a href="https://forms.gle/kYUGbJvZVEbgPiVM6" target="_new" class="btn btn-large btn-gradient btn-rounded mt-4">Apply Now</a>
+                    <a href="https://forms.gle/CkDaPpD7gatXNX3f7" target="_new" class="btn btn-large btn-gradient btn-rounded mt-4">Apply Now</a>
                 </div>
             </div>
             <div class="col-md-6">
