@@ -67,8 +67,8 @@
         <div class="container">
             <a href="javascript:void(0)" title="Logo" class="logo link scroll">
                 <!--Logo Default-->
-                <!--<img src="images/logo-white.png" alt="logo" class="logo-dark default">-->
-                <h3><font color="white">UppSkale</font></h3>
+                <img src="images/logo-white.png" alt="logo" class="logo-dark default">
+                <!--<h3><font color="white">UppSkale</font></h3>-->
             </a>
 
             <!--Nav Links-->
