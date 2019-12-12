@@ -76,10 +76,10 @@
                 <div class="navbar-nav ml-auto">
                         <a class="nav-link link scroll" href="#home">Home</a>
                         <a class="nav-link link scroll" href="#about">About</a>
-                        <a class="nav-link link scroll" href="#team">Team</a>
                         <a class="nav-link link scroll" href="#offerings">Offerings</a>
                         <a class="nav-link link scroll" href="#student">Student</a>
                         <a class="nav-link link scroll" href="#company">Company</a>
+                        <a class="nav-link link scroll" href="#team">Team</a>
                         <a class="nav-link link scroll" href="#contact">Contact</a>
                     <span class="menu-line"><i class="fa fa-angle-down" aria-hidden="true"></i></span>
                 </div>
@@ -112,9 +112,6 @@
                         <a class="nav-link link scroll" href="#about">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link link scroll" href="#team">Team</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link link scroll" href="#offerings">Offerings</a>
                     </li>
                     <li class="nav-item">
@@ -122,6 +119,9 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link link scroll" href="#company">Company</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link link scroll" href="#team">Team</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link link scroll" href="#contact">Contact</a>
@@ -135,7 +135,7 @@
                     <li class="animated-wrap"><a class="animated-element" href="https://www.instagram.com/uppskale/"><i class="fa fa-instagram"></i> </a> </li>
                     <li class="animated-wrap"><a class="animated-element" href="https://www.linkedin.com/company/uppskale/"><i class="fa fa-linkedin"></i> </a> </li>
                 </ul>
-                <p class="text-white">&copy; 2019 UppSkale. Made With Love by Orivin Technologies</p>
+                <p class="text-white">&copy; 2019 UppSkale.</p>
             </div>
         </div>
     </div>
@@ -583,7 +583,7 @@
 <!--slider end-->
 
 <!--About Start-->
-<section id="about">
+<section id="about" class="bg-light">
     <div class="container">
         <!--About-->
         <div class="row align-items-center wow fadeIn">
@@ -657,153 +657,6 @@ Functioning both online and offline, our distinctive approach helps both student
 </section>
 <!--About End-->
 
-<!--Team Start-->
-<section id="team" class="bg-light">
-    <div class="container">
-        <!--Heading-->
-        <div class="row wow fadeIn">
-            <div class="col-md-12 text-center">
-                <div class="title d-inline-block">
-                    <h6 class="mb-3">Redefining the traditional way of recruitment through skill-based hiring<br>and instilling a sense of preparedness in the growth through industry exposure</h6>
-                    <h2 class="gradient-text1 mb-3">Creative Heads</h2>
-                    <p></p>
-                </div>
-            </div>
-        </div>
-
-        <!--Team-->
-        <div class="row">
-            <div class="col-sm-12">
-                <div id="team-slider" class="owl-carousel owl-theme wow fadeInUp">
-                    <!--Team Item-->
-                    <div class="team-box item">
-                        <!--Team Image-->
-                        <div class="team-image">
-                            <img src="images/team-2.jpg" alt="image">
-                            <!--Team Overlay-->
-                            <div class="overlay center-block">
-                                <!--Team Social-->
-                                <ul class="team-social">
-                                    <li><a class="facebook-bg-hvr" href="https://www.facebook.com/uppskale/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a class="linkedin-bg-hvr" href="https://www.linkedin.com/company/uppskale/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                    <li><a class="instagram-bg-hvr" href="https://www.instagram.com/uppskale/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <!--Team Text-->
-                        <div class="team-text">
-                            <h5>Pankhudi Kedia</h5>
-                            <span class="alt-font">Co-Founder & CEO</span>
-                        </div>
-                        <!--Team Progress-->
-                        <?php if(1==2){ ?>
-                        <ul class="team-progress text-left">
-                            <!--Progress Item-->
-                            <li class="progress-item">
-                                <h6>Project Management <span class="float-right"><b class="count">90</b>%</span></h6>
-                                <div class="progress">
-                                <span class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></span>
-                                </div>
-                            </li>
-                            <!--Progress Item-->
-                            <li class="progress-item">
-                                <h6>Web Consulting<span class="float-right"><b class="count">75</b>%</span></h6>
-                                <div class="progress">
-                                    <span class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></span>
-                                </div>
-                            </li>
-                        </ul>
-                        <?php } ?>
-                    </div>
-                    <!--Team Item-->
-                    <div class="team-box item">
-                        <!--Team Image-->
-                        <div class="team-image">
-                            <img src="images/team-1.jpg" alt="image">
-                            <!--Team Overlay-->
-                            <div class="overlay center-block">
-                                <!--Team Social-->
-                                <ul class="team-social">
-                                    <li><a class="facebook-bg-hvr" href="https://www.facebook.com/uppskale/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a class="linkedin-bg-hvr" href="https://www.linkedin.com/company/uppskale/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                                    <li><a class="instagram-bg-hvr" href="https://www.instagram.com/uppskale/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <!--Team Text-->
-                        <div class="team-text">
-                            <h5>Aditya Dave</h5>
-                            <span class="alt-font">Co-Founder & CSO</span>
-                        </div>
-                        <!--Team Progress-->
-                        <?php if(1==2){ ?>
-                        <ul class="team-progress text-left">
-                            <!--Progress Item-->
-                            <li class="progress-item">
-                                <h6>Web Designing<span class="float-right"><b class="count">75</b>%</span></h6>
-                                <div class="progress">
-                                    <span class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></span>
-                                </div>
-                            </li>
-                            <!--Progress Item-->
-                            <li class="progress-item">
-                                <h6>Print Media<span class="float-right"><b class="count">90</b>%</span></h6>
-                                <div class="progress">
-                                    <span class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></span>
-                                </div>
-                            </li>
-                        </ul>
-                        <?php } ?>
-                    </div>
-                    <!--Team Item-->
-                    <div class="team-box item">
-                        <!--Team Image-->
-                        <div class="team-image">
-                            <img src="images/team-3.jpg" alt="image">
-                            <!--Team Overlay-->
-                            <div class="overlay center-block">
-                                <!--Team Social-->
-                                <ul class="team-social">
-                                    <li><a class="facebook-bg-hvr" href="https://www.facebook.com/uppskale/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a class="twitter-bg-hvr" href="javascript:void(0);"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                    <li><a class="instagram-bg-hvr" href="javascript:void(0);"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                    <li><a class="pinterest-bg-hvr" href="javascript:void(0);"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <!--Team Text-->
-                        <div class="team-text">
-                            <h5>Yash Vyas</h5>
-                            <span class="alt-font">Marketing Lead</span>
-                        </div>
-                        <!--Team Progress-->
-                        <?php if(1==2){ ?>
-                        <ul class="team-progress text-left">
-                            <!--Progress Item-->
-                            <li class="progress-item">
-                                <h6>Marketing Online<span class="float-right"><b class="count">80</b>%</span></h6>
-                                <div class="progress">
-                                    <span class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></span>
-                                </div>
-                            </li>
-                            <!--Progress Item-->
-                            <li class="progress-item">
-                                <h6>SEO Services<span class="float-right"><b class="count">70</b>%</span></h6>
-                                <div class="progress">
-                                    <span class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></span>
-                                </div>
-                            </li>
-                        </ul>
-                        <?php } ?>
-                    </div>
-                    <!--Team Item-->
-                    
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--Team Start-->
 
 <!--Portfolio Start-->
 <section id="offerings" class="cube-portfolio1">
@@ -1242,7 +1095,7 @@ Functioning both online and offline, our distinctive approach helps both student
             <div class="col-md-12 text-center wow fadeIn">
                 <div class="title d-inline-block">
                     <h6 class="mb-3"></h6>
-                    <h2 class="gradient-text1 mb-3">Student</h2>
+                    <h2 class="gradient-text1 mb-3">For Students</h2>
                     <p>If you are a student and willing to opt for your dream company, here is the magical link for you to click and solve some of the problems from the companies or just get yourself registered on the form and wait for our call back within a week.</p>
                 </div>
             </div>
@@ -1365,7 +1218,7 @@ Functioning both online and offline, our distinctive approach helps both student
             <div class="col-md-12 text-center wow fadeIn">
                 <div class="title d-inline-block">
                     <h6 class="mb-3"></h6>
-                    <h2 class="gradient-text1 mb-3">Company</h2>
+                    <h2 class="gradient-text1 mb-3">For Companies</h2>
                     <p>Are you looking for amazing intern or an employee for your esteemed organization, <Br>you are at the right place!</p>
                     <b>Get in touch with us via form below</b><br>
                     <a href="https://forms.gle/4eC8yTWfuR6gMWeA7 " target="_new" class="btn btn-large btn-gradient btn-rounded mt-4">Apply Now</a>
@@ -1375,6 +1228,153 @@ Functioning both online and offline, our distinctive approach helps both student
     </div>
 </section>
 
+<!--Team Start-->
+<section id="team" class="bg-light">
+    <div class="container">
+        <!--Heading-->
+        <div class="row wow fadeIn">
+            <div class="col-md-12 text-center">
+                <div class="title d-inline-block">
+                    <h6 class="mb-3">Redefining the traditional way of recruitment through skill-based hiring<br>and instilling a sense of preparedness in the growth through industry exposure</h6>
+                    <h2 class="gradient-text1 mb-3">Creative Heads</h2>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+
+        <!--Team-->
+        <div class="row">
+            <div class="col-sm-12">
+                <div id="team-slider" class="owl-carousel owl-theme wow fadeInUp">
+                    <!--Team Item-->
+                    <div class="team-box item">
+                        <!--Team Image-->
+                        <div class="team-image">
+                            <img src="images/team-2.jpg" alt="image">
+                            <!--Team Overlay-->
+                            <div class="overlay center-block">
+                                <!--Team Social-->
+                                <ul class="team-social">
+                                    <li><a class="facebook-bg-hvr" href="https://www.facebook.com/uppskale/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a class="linkedin-bg-hvr" href="https://www.linkedin.com/company/uppskale/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                    <li><a class="instagram-bg-hvr" href="https://www.instagram.com/uppskale/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!--Team Text-->
+                        <div class="team-text">
+                            <h5>Pankhudi Kedia</h5>
+                            <span class="alt-font">Co-Founder & CEO</span>
+                        </div>
+                        <!--Team Progress-->
+                        <?php if(1==2){ ?>
+                        <ul class="team-progress text-left">
+                            <!--Progress Item-->
+                            <li class="progress-item">
+                                <h6>Project Management <span class="float-right"><b class="count">90</b>%</span></h6>
+                                <div class="progress">
+                                <span class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></span>
+                                </div>
+                            </li>
+                            <!--Progress Item-->
+                            <li class="progress-item">
+                                <h6>Web Consulting<span class="float-right"><b class="count">75</b>%</span></h6>
+                                <div class="progress">
+                                    <span class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></span>
+                                </div>
+                            </li>
+                        </ul>
+                        <?php } ?>
+                    </div>
+                    <!--Team Item-->
+                    <div class="team-box item">
+                        <!--Team Image-->
+                        <div class="team-image">
+                            <img src="images/team-1.jpg" alt="image">
+                            <!--Team Overlay-->
+                            <div class="overlay center-block">
+                                <!--Team Social-->
+                                <ul class="team-social">
+                                    <li><a class="facebook-bg-hvr" href="https://www.facebook.com/uppskale/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a class="linkedin-bg-hvr" href="https://www.linkedin.com/company/uppskale/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                    <li><a class="instagram-bg-hvr" href="https://www.instagram.com/uppskale/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!--Team Text-->
+                        <div class="team-text">
+                            <h5>Aditya Dave</h5>
+                            <span class="alt-font">Co-Founder & CSO</span>
+                        </div>
+                        <!--Team Progress-->
+                        <?php if(1==2){ ?>
+                        <ul class="team-progress text-left">
+                            <!--Progress Item-->
+                            <li class="progress-item">
+                                <h6>Web Designing<span class="float-right"><b class="count">75</b>%</span></h6>
+                                <div class="progress">
+                                    <span class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></span>
+                                </div>
+                            </li>
+                            <!--Progress Item-->
+                            <li class="progress-item">
+                                <h6>Print Media<span class="float-right"><b class="count">90</b>%</span></h6>
+                                <div class="progress">
+                                    <span class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></span>
+                                </div>
+                            </li>
+                        </ul>
+                        <?php } ?>
+                    </div>
+                    <!--Team Item-->
+                    <div class="team-box item">
+                        <!--Team Image-->
+                        <div class="team-image">
+                            <img src="images/team-3.jpg" alt="image">
+                            <!--Team Overlay-->
+                            <div class="overlay center-block">
+                                <!--Team Social-->
+                                <ul class="team-social">
+                                    <li><a class="facebook-bg-hvr" href="https://www.facebook.com/uppskale/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a class="twitter-bg-hvr" href="javascript:void(0);"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><a class="instagram-bg-hvr" href="javascript:void(0);"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                    <li><a class="pinterest-bg-hvr" href="javascript:void(0);"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!--Team Text-->
+                        <div class="team-text">
+                            <h5>Yash Vyas</h5>
+                            <span class="alt-font">Marketing Lead</span>
+                        </div>
+                        <!--Team Progress-->
+                        <?php if(1==2){ ?>
+                        <ul class="team-progress text-left">
+                            <!--Progress Item-->
+                            <li class="progress-item">
+                                <h6>Marketing Online<span class="float-right"><b class="count">80</b>%</span></h6>
+                                <div class="progress">
+                                    <span class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></span>
+                                </div>
+                            </li>
+                            <!--Progress Item-->
+                            <li class="progress-item">
+                                <h6>SEO Services<span class="float-right"><b class="count">70</b>%</span></h6>
+                                <div class="progress">
+                                    <span class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></span>
+                                </div>
+                            </li>
+                        </ul>
+                        <?php } ?>
+                    </div>
+                    <!--Team Item-->
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Team Start-->
 <!--Address Start-->
 <section id="contact" class="p-0">
     <div class="container-fluid">

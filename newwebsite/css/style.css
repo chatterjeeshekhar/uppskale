@@ -2148,11 +2148,11 @@ ul.packages li i.fa-times{
 
 
 .side-menu {
-    width: 40%;
+    width: 30%;
     position: fixed;
     right: 0;
     top: 0;
-    background: #00bcd4;
+    background: #6d00b5;
     z-index: 1032;
     height: 100%;
     -webkit-transform: translate3d(100%, 0, 0);
