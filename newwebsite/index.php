@@ -72,7 +72,7 @@
             </a>
 
             <!--Nav Links-->
-            <div class="collapse navbar-collapse" id="uppskale">
+            <div class="collapse navbar-collapse" id="wexim">
                 <div class="navbar-nav ml-auto">
                         <a class="nav-link link scroll" href="#home">Home</a>
                         <a class="nav-link link scroll" href="#about">About</a>
@@ -85,10 +85,62 @@
                 </div>
             </div>
 
+            <!--Side Menu Button-->
+            <a href="javascript:void(0)" class="d-inline-block parallax-btn sidemenu_btn" id="sidemenu_toggle">
+                <div class="animated-wrap sidemenu_btn_inner">
+                <div class="animated-element">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                </div>
+                </div>
+            </a>
 
         </div>
     </nav>
 
+    <!--Side Nav-->
+    <div class="side-menu">
+        <div class="inner-wrapper">
+            <span class="btn-close link" id="btn_sideNavClose"></span>
+            <nav class="side-nav w-100">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link link scroll" href="#home">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link link scroll" href="#about">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link link scroll" href="#team">Team</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link link scroll" href="#offerings">Offerings</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link link scroll" href="#student">Student</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link link scroll" href="#company">Company</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link link scroll" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </nav>
+
+            <div class="side-footer text-white w-100">
+                <ul class="social-icons-simple">
+                    <li class="animated-wrap"><a class="animated-element" href="javascript:void(0)"><i class="fa fa-facebook"></i> </a> </li>
+                    <li class="animated-wrap"><a class="animated-element" href="javascript:void(0)"><i class="fa fa-instagram"></i> </a> </li>
+                    <li class="animated-wrap"><a class="animated-element" href="javascript:void(0)"><i class="fa fa-twitter"></i> </a> </li>
+                </ul>
+                <p class="text-white">&copy; 2019 Wexim. Made With Love by Themesindustry</p>
+            </div>
+        </div>
+    </div>
+    <a id="close_side_menu" href="javascript:void(0);"></a>
+    <!-- End side menu -->
     <!--Side Nav-->
     
 </header>
@@ -97,7 +149,7 @@
 <!--slider-->
 <section id="home" class="cursor-light p-0">
     <h2 class="d-none">hidden</h2>
-    <div id="rev_slider_19_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="uppskale_slider_01" data-source="gallery" style="background:transparent;padding:0px;">
+    <div id="rev_slider_19_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-alias="wexim_slider_01" data-source="gallery" style="background:transparent;padding:0px;">
         <!-- START REVOLUTION SLIDER 5.4.8.1 fullscreen mode -->
         <div id="rev_slider_19_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.8.1">
             <ul>
