@@ -1261,7 +1261,7 @@ Functioning both online and offline, our distinctive approach helps both student
             <div class="col-md-6">
                 <!--Blog Image-->
                 <div class="blog-image wow hover-effect fadeInLeft">
-                    <img src="images/c1.jpeg" alt="image">
+                    <img src="images/c1.jpeg" alt="image" height="300">
                 </div>
             </div>
         </div>
@@ -1279,7 +1279,7 @@ Functioning both online and offline, our distinctive approach helps both student
             <div class="col-md-6">
                 <!--Blog Image-->
                 <div class="blog-image text-right hover-effect wow fadeInRight">
-                    <img src="images/c1.jpeg" alt="image">
+                    <img src="images/c1.jpeg" alt="image" height="300">
                 </div>
             </div>
         </div>
@@ -1296,7 +1296,7 @@ Functioning both online and offline, our distinctive approach helps both student
             <div class="col-md-6">
                 <!--Blog Image-->
                 <div class="blog-image wow hover-effect fadeInLeft">
-                    <img src="images/blog-image1.jpg" alt="image">
+                    <img src="images/c2.png" alt="image" height="300">
                 </div>
             </div>
         </div>
@@ -1314,7 +1314,7 @@ Functioning both online and offline, our distinctive approach helps both student
             <div class="col-md-6">
                 <!--Blog Image-->
                 <div class="blog-image text-right hover-effect wow fadeInRight">
-                    <img src="images/blog-image2.jpg" alt="image">
+                    <img src="images/c2.png" alt="image" height="300">
                 </div>
             </div>
         </div>
@@ -1331,7 +1331,7 @@ Functioning both online and offline, our distinctive approach helps both student
             <div class="col-md-6">
                 <!--Blog Image-->
                 <div class="blog-image wow hover-effect fadeInLeft">
-                    <img src="images/blog-image1.jpg" alt="image">
+                    <img src="images/c3.png" alt="image" height="150" width="300">
                 </div>
             </div>
         </div>
