@@ -77,8 +77,8 @@
                         <a class="nav-link link scroll" href="#home">Home</a>
                         <a class="nav-link link scroll" href="#about">About</a>
                         <a class="nav-link link scroll" href="#offerings">Offerings</a>
-                        <a class="nav-link link scroll" href="#student">Student</a>
-                        <a class="nav-link link scroll" href="#company">Company</a>
+                        <a class="nav-link link scroll" href="#student">Students</a>
+                        <a class="nav-link link scroll" href="#company">Companies</a>
                         <a class="nav-link link scroll" href="#team">Team</a>
                         <a class="nav-link link scroll" href="#contact">Contact</a>
                     <span class="menu-line"><i class="fa fa-angle-down" aria-hidden="true"></i></span>
@@ -115,10 +115,10 @@
                         <a class="nav-link link scroll" href="#offerings">Offerings</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link link scroll" href="#student">Student</a>
+                        <a class="nav-link link scroll" href="#student">Students</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link link scroll" href="#company">Company</a>
+                        <a class="nav-link link scroll" href="#company">Companies</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link link scroll" href="#team">Team</a>
