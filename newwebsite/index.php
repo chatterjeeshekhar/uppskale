@@ -589,7 +589,7 @@
         <div class="row align-items-center wow fadeIn">
             <div class="col-md-6">
                 <div class="title">
-                        <h6 class="third-color mb-3">Basic info about componay</h6>
+                        <h6 class="third-color mb-3">Basic info about company</h6>
                         <h2>Bridging the gap between Academia and Industry.</h2>
                 </div>
             </div>
